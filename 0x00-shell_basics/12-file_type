@@ -1,2 +1,2 @@
 #!/bin/bash
-printf /tmp/imafile
+printf /tmp/iamafile
