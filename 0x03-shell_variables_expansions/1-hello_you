@@ -1,10 +1,2 @@
 #!/bin/bash
 echo "$USER"
-id
-id -u
-whoami
-my_name=$USER
-echo "Hello $USER"
-echo "Hello $my_name"
-unset my_name
-echo "Hello $my_name"
