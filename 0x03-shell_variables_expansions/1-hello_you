@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$USER"= hello bethel
+echo "$USER"= hello bethel Myuser=hello bethel
